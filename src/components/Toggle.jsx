@@ -18,7 +18,10 @@ export const Toggle = ({ labelLeft, labelRight, toggled, onClick }) => {
           onClick={callback}
           className="hidden"
         />
-        <span className="toggle absolute top-0 left-0 right-0 bottom-0 cursor-pointer bg-gradient-to-r from-primaryStart text-[15px] to-primaryEnd rounded-[30px] transition hover:from-primaryStart hover:to-primaryStart" />
+        <span
+          className="absolute top-0 left-0 right-0 bottom-0 cursor-pointer bg-gradient-to-r 
+        from-primaryStart text-[15px] to-primaryEnd rounded-[30px] transition hover:from-primaryStart hover:to-primaryStart"
+        />
       </label>
       <p className="mx-4">{labelRight}</p>
     </div>
