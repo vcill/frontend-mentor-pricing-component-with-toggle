@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/frontend-mentor-pricing-component-with-toggle/static/css/main.c55df9d2.css",
+    "main.js": "/frontend-mentor-pricing-component-with-toggle/static/js/main.d8ed62ed.js",
+    "index.html": "/frontend-mentor-pricing-component-with-toggle/index.html",
+    "static/media/bg-bottom.svg": "/frontend-mentor-pricing-component-with-toggle/static/media/bg-bottom.0ed1debdb05aee57e642.svg",
+    "static/media/bg-top.svg": "/frontend-mentor-pricing-component-with-toggle/static/media/bg-top.4980c1fd1180f71d5782.svg",
+    "main.c55df9d2.css.map": "/frontend-mentor-pricing-component-with-toggle/static/css/main.c55df9d2.css.map",
+    "main.d8ed62ed.js.map": "/frontend-mentor-pricing-component-with-toggle/static/js/main.d8ed62ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c55df9d2.css",
+    "static/js/main.d8ed62ed.js"
+  ]
+}
